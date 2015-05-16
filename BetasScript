@@ -789,7 +789,7 @@ if (betaWasOn){
         Reclicking the bookmark doesn't work.<br><b><a style='color:#42a5dc;'>Refresh the page if you want to reload <br> or turn off BCS.</a></b><br><br>","#eee",false,true,true);
 }else{
 
-bcs.addChat("<br>Beta just <a style='color:#99ffd7; font-weight: bold;'>feels like deleting this entire thing</a>.<br>" + bcs.version,"#ececec",true,true);
+bcs.addChat("<br>Qwal just <a style='color:#99ffd7; font-weight: bold;'>feels like leeching this entire thing</a>.<br>" + bcs.version,"#ececec",true,true);
 
 var betaWasOn = true;
 bcs.attemptRefresh = false;
